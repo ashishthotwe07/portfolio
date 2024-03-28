@@ -13,7 +13,7 @@ export const Bio = {
     "Aspiring MERN stack developer eager to innovate and create impactful web solutions. Fresh to the industry but equipped with the passion and skills to thrive. Let's build something amazing together!.",
   github: "https://github.com/ashishthotwe07",
   resume:
-    "https://drive.google.com/file/d/1U3Ri1lpSJ1UAKjZY6IzMXhz2zhQ53OaY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1m0yFKy2l_N9UB3KGnN4WqS0U_tiF1CnE/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/ashish-thotwe-14512b212/",
   twitter: "https://twitter.com/ashishhhht",
   insta: "https://www.instagram.com/ashishhhh_07/",
