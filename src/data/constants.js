@@ -180,7 +180,6 @@ export const projects = [
     tags: ["Node Js", "Express Js", "Mongo DB", "EJS", "Passport js"],
     category: "Backend app",
     github: "https://github.com/ashishthotwe07/CareerCampPlacementApp",
-    webapp: "https://placement-cell-app-o9a8.onrender.com/dashboard",
   },
   {
     id: 12,
@@ -245,7 +244,6 @@ export const projects = [
     tags: ["React Js", "Redux", "Redux toolkit"],
     category: "Frontend app",
     github: "https://github.com/ashishthotwe07/Contact-List-React-App",
-    webapp: "https://contactlist-reactapp-ashish.netlify.app/",
   },
   {
     id: 2,
@@ -257,7 +255,6 @@ export const projects = [
     tags: ["Node Js", "Express js", "Bootstrap", "Mongo DB", "Ejs"],
     category: "Backend app",
     github: "https://github.com/ashishthotwe07/Nodejs-Authentication-System",
-    webapp: "https://node-js-authentication-hma9.onrender.com/",
   },
   {
     id: 3,
