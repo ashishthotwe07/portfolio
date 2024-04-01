@@ -201,7 +201,7 @@ export const projects = [
     date: "Apr 2024",
     description:
       "A personal blog MERN (MongoDB, Express.js, React.js, Node.js) application with authentication, CRUD operations on blog posts, comments, and likes, admin dashboard functionality, advanced search, and dark theme support.",
-    image: { projectImage7 },
+    image: projectImage7 ,
     tags: [
       "MongoDB",
       "Express.js",
