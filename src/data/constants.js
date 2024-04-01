@@ -190,7 +190,8 @@ export const projects = [
     image: projectImage6,
     tags: ["React", "Express Js", "Mongo DB", "Tailwind Css", "Redux"],
     category: "Full Stack Apps",
-    github: "https://github.com/ashishthotwe07/crisisConntect",
+    github: "https://github.com/ashishthotwe07/crisisConntectapp",
+    webapp: "https://crisisconntectapp.onrender.com/",
   },
   {
     id: 13,

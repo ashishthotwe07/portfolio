@@ -88,7 +88,7 @@ const Projects = ({ openModal, setOpenModal }) => {
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
-            projects.map((project , index) => (
+            projects.map((project, index) => (
               <ProjectCards
                 project={project}
                 key={index}
