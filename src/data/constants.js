@@ -5,6 +5,7 @@ import projectImage4 from "../images/project-4.png";
 import projectImage5 from "../images/project-5.png";
 import projectImage6 from "../images/project-6.png";
 import projectImage10 from "../images/project10.png";
+import projectImage7 from "../images/blog.png";
 
 export const Bio = {
   name: "Ashish Thotwe",
@@ -181,6 +182,7 @@ export const projects = [
     category: "Backend app",
     github: "https://github.com/ashishthotwe07/CareerCampPlacementApp",
   },
+
   {
     id: 12,
     title: "crisisConnect Emergency Reporting System",
@@ -192,6 +194,26 @@ export const projects = [
     category: "Full Stack Apps",
     github: "https://github.com/ashishthotwe07/crisisConntectapp",
     webapp: "https://crisisconntectapp.onrender.com/",
+  },
+  {
+    id: 1,
+    title: "Personal Blog MERN App",
+    date: "Apr 2024",
+    description:
+      "A personal blog MERN (MongoDB, Express.js, React.js, Node.js) application with authentication, CRUD operations on blog posts, comments, and likes, admin dashboard functionality, advanced search, and dark theme support.",
+    image: { projectImage7 },
+    tags: [
+      "MongoDB",
+      "Express.js",
+      "React.js",
+      "Node.js",
+      "Tailwind CSS",
+      "Redux Toolkit",
+      "Firebase",
+    ],
+    category: "Full Stack Apps",
+    github: "https://github.com/ashishthotwe07/blog-app-ashish",
+    webapp: "https://blog-app-ashish.onrender.com/",
   },
   {
     id: 13,
