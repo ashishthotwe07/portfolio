@@ -171,17 +171,7 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 11,
-    title: "CareerCamp Interview Management System",
-    date: "Sep 2023",
-    description:
-      "CareerCamp is a comprehensive web application designed for managing student interviews. It provides an intuitive interface for administrators to add students, schedule interviews, track results. Admin can login in the app and can allocate students to the interview.",
-    image: projectImage2,
-    tags: ["Node Js", "Express Js", "Mongo DB", "EJS", "Passport js"],
-    category: "Backend app",
-    github: "https://github.com/ashishthotwe07/CareerCampPlacementApp",
-  },
+
 
   {
     id: 12,
@@ -201,7 +191,7 @@ export const projects = [
     date: "Apr 2024",
     description:
       "A personal blog MERN (MongoDB, Express.js, React.js, Node.js) application with authentication, CRUD operations on blog posts, comments, and likes, admin dashboard functionality, advanced search, and dark theme support.",
-    image: projectImage7 ,
+    image: projectImage7,
     tags: [
       "MongoDB",
       "Express.js",
@@ -232,6 +222,7 @@ export const projects = [
     ],
     category: "Full Stack Apps",
     github: "https://github.com/your-username/mern-real-estate",
+    webapp: "https://mern-estate-realty-rover.onrender.com/",
   },
   {
     id: 9,
@@ -244,6 +235,17 @@ export const projects = [
     category: "Frontend app",
     github: "https://github.com/ashishthotwe07/React-Chat-App",
     webapp: "https://react-chat-app-ashish.netlify.app/",
+  },
+  {
+    id: 11,
+    title: "CareerCamp Interview Management System",
+    date: "Sep 2023",
+    description:
+      "CareerCamp is a comprehensive web application designed for managing student interviews. It provides an intuitive interface for administrators to add students, schedule interviews, track results. Admin can login in the app and can allocate students to the interview.",
+    image: projectImage2,
+    tags: ["Node Js", "Express Js", "Mongo DB", "EJS", "Passport js"],
+    category: "Backend app",
+    github: "https://github.com/ashishthotwe07/CareerCampPlacementApp",
   },
   {
     id: 0,
